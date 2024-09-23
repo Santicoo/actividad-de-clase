@@ -5,6 +5,5 @@ def factorial(n):
         return n * factorial(n-1)
 
 
-
-n = float(input("Ingrese el número del cual desea saber el factorial: "))
+n = int(input("Ingrese el número del cual desea saber el factorial: "))
 print("Resultado:", factorial(n))
