@@ -1,2 +1,4 @@
-# actividad-de-clase
-tarea sobre 20 codigos donde cada estudiante realiza 1 de esos 20
+# actividad de clase
+
+# funcionalidad
+- un codigo breve que perimite consultar cual es el factorial de un numero 
